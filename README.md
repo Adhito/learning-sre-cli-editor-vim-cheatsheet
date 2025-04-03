@@ -23,4 +23,18 @@
 - `G` → go to the last line  
 - `gg` → go to the first line  
 
+### Editing Text
+- `i` → Insert before the cursor  
+- `a` → Append after the cursor  
+- `o` → Open a new line below  
+- `O` → Open a new line above  
+- `x` → Delete a character  
+- `dd` → Delete an entire line  
+- `yy` → Copy a line  
+- `p` → Paste copied text  
 
+### Saving and Exiting
+- `:w` → Save the file  
+- `:q` → Quit  
+- `:wq` → Save and quit  
+- `:q!` → Quit without saving  
