@@ -1,5 +1,3 @@
-Awesome! Here’s a simple step-by-step exercise to help you get comfortable with Vi.  
-
 ### **Exercise 1: Opening and Editing a File**
 1. Open a terminal and create a new file with:  
    ```bash
